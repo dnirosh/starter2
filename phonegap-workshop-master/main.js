@@ -4,7 +4,7 @@ $(document).ready(function() {
 //Title of the blog
 var TITLE = "ColdFusion Jedi";
 //RSS url
-var RSS = "http://feedproxy.google.com/RaymondCamdensColdfusionBlog";
+var RSS = "http://lkr.fxexchangerate.com/rss.xml";
 //Stores entries
 var entries = [];
 var selectedEntry = "";
